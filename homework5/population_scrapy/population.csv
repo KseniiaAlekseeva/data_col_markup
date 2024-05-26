@@ -1,0 +1,199 @@
+country,population,med_age,main_city_by_pop
+India,"1,428,627,663",28,Mumbai
+France,"64,756,584",42,Paris
+Uganda,"48,582,334",16,Kampala
+Colombia,"52,085,168",32,Bogota
+Kenya,"55,100,586",20,Nairobi
+South Korea,"51,784,059",44,Seoul
+Myanmar,"54,577,997",30,Yangon
+Tanzania,"67,438,106",17,Dar es Salaam
+Italy,"58,870,762",48,Rome
+South Africa,"60,414,495",28,Cape Town
+United Kingdom,"67,736,802",40,London
+Thailand,"71,801,279",40,Bangkok
+Iran,"89,172,767",33,Tehran
+Germany,"83,294,633",45,Berlin
+Turkey,"85,816,199",32,Istanbul
+Vietnam,"98,858,950",33,Ho Chi Minh City
+Aruba,"106,277",42,Oranjestad
+U.S. Virgin Islands,"98,750",43,Saint Croix
+Seychelles,"107,660",33,Victoria
+Kiribati,"133,515",22,Tarawa
+St. Vincent & Grenadines,"103,698",33,Kingstown
+Antigua and Barbuda,"94,298",36,Saint John's
+Tonga,"107,773",22,Nuku'alofa
+Saint Lucia,"180,251",34,Castries
+Barbados,"281,995",40,Bridgetown
+New Caledonia,"292,991",34,Noumea
+French Polynesia,"308,872",34,Faaa
+Sao Tome & Principe,"231,856",19,Sao Tome
+Curaçao,"192,077",36,Willemstad
+Guam,"172,952",30,Dededo Village
+Samoa,"225,681",21,Apia
+French Guiana,"312,155",24,Cayenne
+Iceland,"375,318",36,Reykjavik
+Vanuatu,"334,506",20,Port-Vila
+Martinique,"366,981",47,Fort-de-France
+Guadeloupe,"395,839",42,Les Abymes
+Mayotte,"335,995",17,Mamoudzou
+Bahamas,"412,623",33,Nassau
+Belize,"410,825",26,Belize City
+Malta,"535,064",40,Birkirkara
+Maldives,"521,021",32,Male
+Cabo Verde,"598,682",27,Praia
+Brunei ,"452,524",33,Bandar Seri Begawan
+Western Sahara,"587,259",32,Laayoune
+Suriname,"623,236",28,Paramaribo
+Montenegro,"626,485",39,Podgorica
+Luxembourg,"654,768",39,Luxembourg
+Réunion,"981,796",34,Saint-Denis
+Macao,"704,149",39,Macau
+Solomon Islands,"740,424",19,Honiara
+Bhutan,"787,424",29,Thimphu
+Comoros,"852,075",20,Moroni
+Guyana,"813,834",26,Georgetown
+Fiji,"936,375",27,Suva
+Djibouti,"1,136,455",24,Djibouti
+Mauritius,"1,300,557",37,Port Louis
+Bahrain,"1,485,509",34,Manama
+Cyprus,"1,260,138",39,Nicosia
+Eswatini,"1,210,822",22,Manzini
+Estonia,"1,322,765",42,Tallinn
+Timor-Leste,"1,360,596",21,Dili
+Trinidad and Tobago,"1,534,937",36,Chaguanas
+Equatorial Guinea,"1,714,671",21,Bata
+Slovenia,"2,119,675",44,Ljubljana
+Guinea-Bissau,"2,150,842",19,Bissau
+Lesotho,"2,330,318",22,Maseru
+Latvia,"1,830,211",44,Riga
+Gabon,"2,436,566",22,Libreville
+North Macedonia,"2,085,679",39,Skopje
+Namibia,"2,604,172",21,Windhoek
+Botswana,"2,675,352",24,Gaborone
+Qatar,"2,716,391",34,Doha
+Lithuania,"2,718,352",44,Vilnius
+Armenia,"2,777,970",35,Yerevan
+Albania,"2,832,439",38,Tirana
+Bosnia and Herzegovina,"3,210,847",42,Sarajevo
+Gambia,"2,773,168",17,Serekunda
+Jamaica,"2,825,544",32,Kingston
+Puerto Rico,"3,260,314",44,San Juan
+Uruguay,"3,423,108",36,Montevideo
+Moldova,"3,435,931",35,Chisinau
+Mongolia,"3,447,157",27,Ulan Bator
+Georgia,"3,728,282",37,Tbilisi
+Eritrea,"3,748,901",19,Asmara
+Croatia,"4,008,617",44,Zagreb
+Kuwait,"4,310,108",40,Al Ahmadi
+Oman,"4,644,384",29,Muscat
+Panama,"4,468,087",29,Panama
+Costa Rica,"5,212,173",34,San Jose
+Ireland,"5,056,935",38,Dublin
+Mauritania,"4,862,989",18,Nouakchott
+Lebanon,"5,353,930",29,Beirut
+New Zealand,"5,228,100",37,Auckland
+State of Palestine,"5,371,230",20,East Jerusalem
+Liberia,"5,418,377",18,Monrovia
+Norway,"5,474,360",40,Oslo
+Finland,"5,545,475",43,Helsinki
+Denmark,"5,910,913",41,Copenhagen
+Slovakia,"5,795,199",40,Bratislava
+Singapore,"6,014,723",43,Singapore
+Central African Republic,"5,742,315",15,Bangui
+Congo,"6,106,869",18,Brazzaville
+Turkmenistan,"6,516,100",26,Ashgabat
+El Salvador,"6,364,943",27,San Salvador
+Bulgaria,"6,687,717",45,Sofia
+Kyrgyzstan,"6,735,347",24,Bishkek
+Paraguay,"6,861,524",26,Asuncion
+Libya,"6,888,388",27,Tripoli
+Nicaragua,"7,046,310",25,Managua
+Serbia,"7,149,077",43,Belgrade
+Laos,"7,633,779",24,Vientiane
+Hong Kong,"7,491,609",46,Hong Kong
+Sierra Leone,"8,791,092",19,Freetown
+Switzerland,"8,796,669",42,Zurich
+Austria,"8,958,960",43,Vienna
+Togo,"9,053,799",19,Lome
+Israel,"9,174,520",29,Jerusalem
+Belarus,"9,498,238",41,Minsk
+United Arab Emirates,"9,516,871",34,Dubai
+Tajikistan,"10,143,543",22,Dushanbe
+Hungary,"10,156,239",42,Budapest
+Portugal,"10,247,605",46,Lisbon
+Papua New Guinea,"10,329,931",22,Port Moresby
+Azerbaijan,"10,412,651",32,Baku
+Czech Republic (Czechia),"10,495,295",43,Prague
+Greece,"10,341,277",45,Athens
+Honduras,"10,593,798",24,Tegucigalpa
+Sweden,"10,612,086",40,Stockholm
+South Sudan,"11,088,796",17,Juba
+Cuba,"11,194,449",41,Havana
+Dominican Republic,"11,332,972",28,Santo Domingo
+Haiti,"11,724,763",23,Port-au-Prince
+Jordan,"11,337,052",24,Amman
+Belgium,"11,686,140",41,Brussels
+Bolivia,"12,388,571",24,Santa Cruz de la Sierra
+Tunisia,"12,458,223",32,Tunis
+Burundi,"13,238,559",16,Bujumbura
+Benin,"13,712,828",18,Cotonou
+Rwanda,"14,094,683",19,Kigali
+Guinea,"14,190,612",18,Camayenne
+Zimbabwe,"16,665,409",18,Harare
+Cambodia,"16,944,826",27,Phnom Penh
+Netherlands,"17,618,299",42,Amsterdam
+Senegal,"17,763,163",18,Dakar
+Guatemala,"18,092,026",23,Guatemala City
+Somalia,"18,143,378",15,Mogadishu
+Ecuador,"18,190,484",28,Guayaquil
+Chad,"18,278,568",15,N'Djamena
+Chile,"19,629,590",36,Santiago
+Kazakhstan,"19,606,633",30,Almaty
+Romania,"19,892,812",41,Bucharest
+Zambia,"20,569,737",17,Lusaka
+Malawi,"20,931,751",17,Lilongwe
+Sri Lanka,"21,893,579",33,Colombo
+Syria,"23,227,014",22,Aleppo
+Burkina Faso,"23,251,485",17,Ouagadougou
+Mali,"23,293,698",15,Bamako
+Taiwan,"23,923,276",42,Taipei
+North Korea,"26,160,821",36,Pyongyang
+Australia,"26,439,111",38,Sydney
+Niger,"27,202,843",15,Niamey
+Cameroon,"28,647,293",18,Douala
+Venezuela,"28,838,499",28,Caracas
+Côte d'Ivoire,"28,873,034",18,Abidjan
+Madagascar,"30,325,732",19,Antananarivo
+Nepal,"30,896,590",24,Kathmandu
+Ghana,"34,121,985",21,Accra
+Mozambique,"33,897,354",17,Maputo
+Malaysia,"34,308,525",31,Kota Bharu
+Yemen,"34,449,825",19,Sanaa
+Peru,"34,352,719",29,Lima
+Uzbekistan,"35,163,944",27,Tashkent
+Angola,"36,684,202",16,Luanda
+Ukraine,"36,744,634",45,Kyiv
+Morocco,"37,840,044",29,Casablanca
+Saudi Arabia,"36,947,025",31,Riyadh
+Canada,"38,781,291",41,Toronto
+Poland,"41,026,067",40,Warsaw
+Afghanistan,"42,239,854",17,Kabul
+Iraq,"45,504,560",20,Baghdad
+Argentina,"45,773,884",32,Buenos Aires
+Algeria,"45,606,480",28,Algiers
+Sudan,"48,109,006",19,Khartoum
+Spain,"47,519,628",45,Madrid
+DR Congo,"102,262,808",16,Kinshasa
+Egypt,"112,716,598",24,Cairo
+Philippines,"117,337,368",25,Quezon City
+Japan,"123,294,513",49,Tokyo
+Mexico,"128,455,567",30,Mexico City
+Ethiopia,"126,527,060",19,Addis Ababa
+Bangladesh,"172,954,319",27,Dhaka
+Brazil,"216,422,446",34,Sao Paulo
+Russia,"144,444,359",39,Moscow
+Nigeria,"223,804,632",17,Lagos
+Pakistan,"240,485,658",21,Karachi
+Indonesia,"277,534,122",30,Jakarta
+China,"1,425,671,352",39,Shanghai
+United States,"339,996,563",38,New York City

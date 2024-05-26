@@ -1,0 +1,163 @@
+     id  ...                                        Description
+0  1000  ...  Around the World, continent by continent, here...
+1   998  ...  In England’s Regency era, manners and elegance...
+2   999  ...  James Patterson, bestselling author of the Ale...
+3     1  ...  It's hard to imagine a world without A Light i...
+4     2  ...  "Erotic and absorbing...Written with starling ...
+
+[5 rows x 5 columns]
+    id                                               Name  ... Amount Description
+0  161  The Bridge to Consciousness: I'm Writing the B...  ...   None        None
+1  996  Alice in Wonderland (Alice's Adventures in Won...  ...   None        None
+
+[2 rows x 5 columns]
+      id  ...                                        Description
+0   1000  ...  Around the World, continent by continent, here...
+1    998  ...  In England’s Regency era, manners and elegance...
+2    999  ...  James Patterson, bestselling author of the Ale...
+3    903  ...  "Y" is none other than unemployed escape artis...
+4    904  ...  Everything she loved could so easily be lost.T...
+..   ...  ...                                                ...
+92   992  ...  Justice Lonesome has enjoyed a life of bounty....
+93   993  ...  First in a new series from bestselling author ...
+94   994  ...  Hot-tempered 15-year-old Ichigo Kurosaki, the ...
+95   995  ...  Friedrich Nietzsche's Beyond Good and Evil is ...
+96   997  ...  High school student Kei Nagai is struck dead i...
+
+[97 rows x 5 columns]
+                                                 Name  Price
+0                                         In Her Wake  12.84
+1   The Third Wave: An Entrepreneur’s Vision of th...  12.61
+2                      So You've Been Publicly Shamed  12.23
+3   Beauty Restored (Riley Family Legacy Novellas #3)  11.11
+4                      Agnostic: A Spirited Manifesto  12.51
+5                   Walt Disney's Alice in Wonderland  12.96
+6   Superman Vol. 1: Before Truth (Superman by Gen...  11.89
+7               Old School (Diary of a Wimpy Kid #10)  11.83
+8                                  Dear Mr. Knightley  11.21
+9   City of Fallen Angels (The Mortal Instruments #4)  11.23
+10    My Kitchen Year: 136 Recipes That Saved My Life  11.53
+11                                       The Children  11.88
+12                         Hide Away (Eve Duncan #20)  11.84
+13  The Sleep Revolution: Transforming Your Life, ...  11.68
+14                                   Underlying Notes  11.82
+15  The Moosewood Cookbook: Recipes from Moosewood...  12.34
+16  Living Forward: A Proven Plan to Stop Drifting...  12.55
+17  Brilliant Beacons: A History of the American L...  11.45
+18  You Are a Badass: How to Stop Doubting Your Gr...  12.08
+19  Naturally Lean: 125 Nourishing Gluten-Free, Pl...  11.38
+20   Every Heart a Doorway (Every Heart A Doorway #1)  12.16
+21  The Power Greens Cookbook: 140 Delicious Super...  11.05
+22                                The Darkest Corners  11.33
+23                     The 5th Wave (The 5th Wave #1)  11.83
+24                                       Remember Me?  11.48
+25  Orchestra of Exiles: The Story of Bronislaw Hu...  12.36
+26                    Night Shift (Night Shift #1-20)  12.75
+27           Dark Lover (Black Dagger Brotherhood #1)  12.87
+28         The Purest Hook (Second Circle Tattoos #3)  12.25
+29                   The Giver (The Giver Quartet #1)  12.30
+30                              Running with Scissors  12.91
+31                               Reservations for Two  11.10
+32                                      Lust & Wonder  11.87
+33                                   Lila (Gilead #3)  12.47
+34      The Suffragettes (Little Black Classics, #96)  11.89
+35      Saga, Volume 2 (Saga (Collected Editions) #2)  11.75
+36                             New Moon (Twilight #2)  12.86
+37           Fruits Basket, Vol. 2 (Fruits Basket #2)  11.64
+38                                    The Silent Wife  12.34
+39                                  The Girl You Lost  12.29
+                                                 Name  Price
+0                                         In Her Wake     12
+1   The Third Wave: An Entrepreneur’s Vision of th...     12
+2                      So You've Been Publicly Shamed     12
+3   Beauty Restored (Riley Family Legacy Novellas #3)     11
+4                      Agnostic: A Spirited Manifesto     12
+5                   Walt Disney's Alice in Wonderland     12
+6   Superman Vol. 1: Before Truth (Superman by Gen...     11
+7               Old School (Diary of a Wimpy Kid #10)     11
+8                                  Dear Mr. Knightley     11
+9   City of Fallen Angels (The Mortal Instruments #4)     11
+10    My Kitchen Year: 136 Recipes That Saved My Life     11
+11                                       The Children     11
+12                         Hide Away (Eve Duncan #20)     11
+13  The Sleep Revolution: Transforming Your Life, ...     11
+14                                   Underlying Notes     11
+15  The Moosewood Cookbook: Recipes from Moosewood...     12
+16  Living Forward: A Proven Plan to Stop Drifting...     12
+17  Brilliant Beacons: A History of the American L...     11
+18  You Are a Badass: How to Stop Doubting Your Gr...     12
+19  Naturally Lean: 125 Nourishing Gluten-Free, Pl...     11
+20   Every Heart a Doorway (Every Heart A Doorway #1)     12
+21  The Power Greens Cookbook: 140 Delicious Super...     11
+22                                The Darkest Corners     11
+23                     The 5th Wave (The 5th Wave #1)     11
+24                                       Remember Me?     11
+25  Orchestra of Exiles: The Story of Bronislaw Hu...     12
+26                    Night Shift (Night Shift #1-20)     12
+27           Dark Lover (Black Dagger Brotherhood #1)     12
+28         The Purest Hook (Second Circle Tattoos #3)     12
+29                   The Giver (The Giver Quartet #1)     12
+30                              Running with Scissors     12
+31                               Reservations for Two     11
+32                                      Lust & Wonder     11
+33                                   Lila (Gilead #3)     12
+34      The Suffragettes (Little Black Classics, #96)     11
+35      Saga, Volume 2 (Saga (Collected Editions) #2)     11
+36                             New Moon (Twilight #2)     12
+37           Fruits Basket, Vol. 2 (Fruits Basket #2)     11
+38                                    The Silent Wife     12
+39                                  The Girl You Lost     12
+                                                  Name      Price
+0                   The Perfect Play (Play by Play #1)  59.990002
+1                    Last One Home (New Beginnings #1)  59.980000
+2                     Civilization and Its Discontents  59.950001
+3                       The Barefoot Contessa Cookbook  59.919998
+4                            The Diary of a Young Girl  59.900002
+..                                                 ...        ...
+995  The Tipping Point: How Little Things Can Make ...  10.020000
+996                              The Origin of Species  10.010000
+997                         An Abundance of Katherines  10.000000
+998  Alice in Wonderland (Alice's Adventures in Won...        NaN
+999  The Bridge to Consciousness: I'm Writing the B...        NaN
+
+[1000 rows x 2 columns]
+     Amount      Price
+0       1.0  58.990002
+1       1.0  58.750000
+2       1.0  58.349998
+3       1.0  57.820000
+4       1.0  57.700001
+..      ...        ...
+995    20.0  50.099998
+996    20.0  47.820000
+997    22.0  51.770000
+998     NaN        NaN
+999     NaN        NaN
+
+[1000 rows x 2 columns]
+Общее количество полных записей: 998
+    Amount  Count
+0      1.0     97
+1      2.0     14
+2      3.0    196
+3      4.0     47
+4      5.0     65
+5      6.0     35
+6      7.0     53
+7      8.0     47
+8      9.0     25
+9     10.0      2
+10    11.0     28
+11    12.0     34
+12    13.0      5
+13    14.0    136
+14    15.0     86
+15    16.0     84
+16    17.0      5
+17    18.0     11
+18    19.0     23
+19    20.0      4
+20    22.0      1
+21     NaN      2
+Средняя цена книг: 35.05292584470852
+Средняя цена книг с учетом количества: 34.969394340052155
